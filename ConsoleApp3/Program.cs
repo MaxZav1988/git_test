@@ -12,6 +12,8 @@ namespace ConsoleApp1
         {
             Console.WriteLine("we");
             Console.ReadKey();
+            Console.WriteLine("urina");
+            Console.WriteLine("Coloborant");
             
         }
     }
