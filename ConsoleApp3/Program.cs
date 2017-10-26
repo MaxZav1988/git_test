@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("we");
             Console.ReadKey();
+            Console.WriteLine("Master");
             
         }
     }
